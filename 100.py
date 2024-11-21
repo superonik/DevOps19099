@@ -6,4 +6,5 @@ def wait_for_print():
     from time import sleep
     sleep(3)
     print('Hello world')
-wait_for_print()
+wait_for_print(print('Hello world')
+print('Hello Ronen')
